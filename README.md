@@ -1,18 +1,19 @@
 # POSSUM: a bioinformatics toolkit for generating numerical sequence feature descriptors based on PSSM profiles
 
-![Language](https://img.shields.io/badge/language-python-brightgreen) 
-![Language](https://img.shields.io/badge/language-perl-brightgreen) 
+![version](https://img.shields.io/badge/version-1.0-brightgreen)
+![time](https://img.shields.io/badge/time-15/05/2017-brightgreen.svg)
+![Language](https://img.shields.io/badge/python-2.7-blue) 
+![Language](https://img.shields.io/badge/language-perl-red) 
 ![github license](https://img.shields.io/github/license/noHup-cc/POSSUM)
+[![Website possum.erc.monash.edu](https://img.shields.io/website-up-down-green-red/http/possum.erc.monash.edu.svg)](http://possum.erc.monash.edu/)
+![Unix/Linux](https://svgshare.com/i/Zhy.svg)
+![Mac OS](https://svgshare.com/i/ZjP.svg)
+![Windows](https://svgshare.com/i/ZhY.svg)
 
-```
-VERSION 1.0
-15/05/2017 
 
-Authors: Jiawei Wang (chris@nohup.cc) & Bingjiao Yang (young@nohup.cc)
-Platforms supported: Windows, Unix/Linux, Mac OS
 
-Copyright: Free for academic/scientific use.
-```
+> Authors: [`Jiawei Wang`](http://jiawei.nohup.cc) (chris@nohup.cc) & `Bingjiao Yang` (young@nohup.cc)
+
 
 
 ## Quick start:
@@ -79,4 +80,4 @@ Copyright: Free for academic/scientific use.
 
 ## References
 
-Wang J, Yang B *et al.* POSSUM: a bioinformatics toolkit for generating numerical sequence feature descriptors based on PSSM profiles. Bioinformatics 2017;33(17):2756-2758. [DOI: 10.1093/bioinformatics/btx302](https://doi.org/10.1093/bioinformatics/btx302/).
+Wang J, Yang B *et al.* POSSUM: a bioinformatics toolkit for generating numerical sequence feature descriptors based on PSSM profiles. *Bioinformatics* 2017;33(17):2756-2758. [DOI: 10.1093/bioinformatics/btx302](https://doi.org/10.1093/bioinformatics/btx302/).
